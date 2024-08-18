@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoerunnisa Rahmawati</h1>
-<h3 align="center">I am a 5th semester student</h3>
+<h3 align="center">I am a 7th semester student</h3>
 <img align="right" alt="work" width="300" src="https://user-images.githubusercontent.com/132890652/241001934-95a9797a-a07c-4499-bcd3-937e0900af90.gif"/>
 
 - 🌱 I’m currently learning **programming and graphic design**
