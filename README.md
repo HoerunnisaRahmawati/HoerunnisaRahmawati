@@ -2,11 +2,9 @@
 <h3 align="center">I am a 7th semester student</h3>
 <img align="right" alt="work" width="300" src="https://user-images.githubusercontent.com/132890652/241001934-95a9797a-a07c-4499-bcd3-937e0900af90.gif"/>
 
-- 🌱 I’m currently learning **programming and graphic design**
+- 🌱 I’m currently learning **Web Programming**
 
-- 👨‍💻 All of my projects are available at [https://preview.webflow.com/preview/hoerunnisa-portofolio-site?utm_medium=preview_link&utm_source=dashboard&utm_content=hoerunnisa-portofolio-site&preview=69df73289db29ef92f43d4e7afa0e794&workflow=preview](https://preview.webflow.com/preview/hoerunnisa-portofolio-site?utm_medium=preview_link&utm_source=dashboard&utm_content=hoerunnisa-portofolio-site&preview=69df73289db29ef92f43d4e7afa0e794&workflow=preview)
-
-- 💬 Ask me about **graphic design and programming**
+- 👨‍💻 All of my projects are available at ....
 
 - 📫 How to reach me **hoerunnisarahmawati1@gmail.com or at +6282130071282**
 
