@@ -10,18 +10,18 @@
 
 - ⚡ Fun fact **I'm Human**
 
+  ## Collaborative Project: Website Cafe
+- **Description**: Website designed to make it easier for cafes to manage orders.
+- **Technologies**: React.js, Bootsrap
+- **Role**: Frontend Developer (handled Design UI/UX )
+- [View Repository](https://github.com/Kelompok1-FinalProject)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hoerunnisa rahmawati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoerunnisa rahmawati" height="30" width="40" /></a>
 <a href="https://www.instagram.com/icaahrnnsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="IG hoerunnisa rahmawati" height="30" width="40" /></a>
 </p>
 </p>
-
-## Collaborative Project: Website Cafe
-- **Description**: Website designed to make it easier for cafes to manage orders.
-- **Technologies**: React.js, Bootsrap
-- **Role**: Frontend Developer (handled Design UI/UX )
-- [View Repository](https://github.com/Kelompok1-FinalProject)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
